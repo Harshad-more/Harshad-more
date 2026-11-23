@@ -6,26 +6,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Artificial+Intelligence+%26+ML;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Harshad-more">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
 
 - 🎓 B.Tech Student at **Rajarambapu Institute of Technology (RIT), Islampur**
-- 💻 Interested in **Full Stack Web Development**
-- ⚛️ Learning and building projects using the **MERN Stack**
-- 🤖 Interested in **Artificial Intelligence and Machine Learning**
-- 🚀 Passionate about developing responsive and user-friendly applications.
-- 🌱 Always exploring new technologies and improving my development skills.
-- 🤝 Open to learning, collaboration and exciting development projects.
+- 💻 Interested in Full Stack Web Development.
+- ⚛️ Passionate about MERN Stack Development.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🚀 Enjoy building responsive and user-friendly applications.
+- 🌱 Always learning and exploring new technologies.
+- 🤝 Open to collaboration and exciting opportunities.
 
 ---
 
@@ -68,10 +59,31 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 📬 Let's Connect With Me!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshad-more/Harshad-more/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <a href="mailto:harshadmore2252@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Harshad-more">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/more-harshad-vitthal-5b808731a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="tel:+919699713445">
+    <img src="https://img.shields.io/badge/Phone-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 **Email:** harshadmore2252@gmail.com
+  <br/>
+  📱 **Contact:** +91 9699713445
+  <br/>
+  💻 **GitHub:** <a href="https://github.com/Harshad-more">Harshad-more</a>
+  <br/>
+  🔗 **LinkedIn:** <a href="https://linkedin.com/in/more-harshad-vitthal-5b808731a">My LinkedIn Profile</a>
 </p>
 
 ---
